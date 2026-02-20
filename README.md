@@ -116,6 +116,9 @@ pip install requests tqdm
 
 Tutte le variabili sono in `config.py` con già la configurazione di default usata da me
 
-## License
 
-MIT
+
+
+```
+Questo dizionario è il cuore di [**TUFFGramma**](https://tuffgramma.com/) — la mia app di giochi sulle parole italiane.
+```
