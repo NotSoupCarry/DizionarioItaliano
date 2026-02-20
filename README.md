@@ -112,13 +112,11 @@ pip install requests tqdm
 └── README.md
 ```
 
-## Configurazione
-
 Tutte le variabili sono in `config.py` con già la configurazione di default usata da me
 
 
+<br>
 
 
-```
+###
 Questo dizionario è il cuore di [**TUFFGramma**](https://tuffgramma.com/) — la mia app di giochi sulle parole italiane.
-```
